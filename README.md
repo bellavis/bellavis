@@ -1,8 +1,7 @@
 # ![Bell Avisar header](https://s8.gifyu.com/images/Red-and-Blue-Dynamic-Teacher-Linkedin-Banner.gif)
 <div align='center'>
   
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p> My name is Bell, I am a web developer, <br>
   a CS student at the Open University of Israel and a designer! </p>
