@@ -4,8 +4,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
 
-<p> My name is Bell, I am a web developer, designer, <br>
-and a CS student at the Open University of Israel! </p>
+<p> My name is Bell, I am a web developer, <br>
+  a CS student at the Open University of Israel and a designer! </p>
 <a href="https://www.linkedin.com/in/bell-avisar/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  LinkedIn - Bell Avisar</a>
 
 
