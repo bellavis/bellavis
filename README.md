@@ -12,7 +12,6 @@
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) <br>
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FrameWork-Angular-informational?style=flat&logo=AngularJS&logoColor=white&color=2bbc8a)<br>
