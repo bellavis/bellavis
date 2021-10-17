@@ -1,4 +1,4 @@
-# ![Bell Avisar header](https://s8.gifyu.com/images/Red-and-Blue-Dynamic-Teacher-Linkedin-Banner.gif)
+# ![Bell Avisar header](https://s1.gifyu.com/images/Red-and-Blue-Dynamic-Teacher-Linkedin-Banner.gif)
 <div align='center'>
   
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
